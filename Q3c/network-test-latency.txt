@@ -1,0 +1,8 @@
+google.com 15.0
+iit.edu 16.0
+yahoo.com 17.0
+opensource.org 18.0
+github.com 19.0
+python.org 20.0
+stackoverflow.com 21.0
+ubuntu.com 22.0

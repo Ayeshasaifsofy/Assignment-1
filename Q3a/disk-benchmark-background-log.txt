@@ -1,0 +1,7 @@
+1000+0 records in
+1000+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 2.00019 s, 524 MB/s
+
+real	0m2.448s
+user	0m0.140s
+sys	0m0.858s
